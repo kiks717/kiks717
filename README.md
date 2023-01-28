@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiks717
 - 🤠 Decided to build my career in programming world 🎉
-- 👀 I’m interested in programming, cooking, running and music 🎧
+- 👀 I’m interested in programming, cooking, working out and music 🎧
 - 🌱 I’m currently learning  React with Scrimba...
 
 <!---
